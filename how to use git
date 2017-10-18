@@ -12,3 +12,6 @@ git commit -m “현재형으로 설명” // 커밋해서 스냅샷을 찍는�
 git remote add origin https://github.com/username/myproject.git // 로컬과 원격 저장소를 연결한다.
 git remote -v // 연결상태를 확인한다.
 git push origin master // 깃허브로 푸시한다.
+
+Stash 및 clean 관련 - 정리필요
+https://git-scm.com/book/ko/v2/Git-%EB%8F%84%EA%B5%AC-Stashing%EA%B3%BC-Cleaning
