@@ -1,1 +1,16 @@
+// features you need to know
+Understanding Docker Concepts: A good Docker user understands core Docker concepts such as containers, images, Dockerfiles, and Docker registries. They grasp how these components interact and contribute to containerized application deployment.
 
+Creating Docker Images: Proficient Docker users can create Docker images efficiently using Dockerfiles. They understand best practices for writing Dockerfiles, including minimizing image size, leveraging layers, and optimizing build steps.
+
+Managing Containers: They can effectively manage Docker containers, including starting, stopping, pausing, and removing containers as needed. They understand container lifecycle management and how to monitor container resources.
+
+Docker Networking and Volumes: Proficient Docker users are familiar with Docker networking concepts and can configure networks to facilitate communication between containers. They also understand Docker volumes and how to manage data persistence in containers.
+
+Docker Compose: They are comfortable using Docker Compose to define and manage multi-container Docker applications. They understand how to define services, networks, and volumes in a Docker Compose file and use it to orchestrate complex applications.
+
+Docker Swarm or Kubernetes: Proficient Docker users may have experience with container orchestration platforms such as Docker Swarm or Kubernetes. They understand how to deploy and manage containerized applications at scale using these platforms.
+
+Docker Security: They understand Docker security best practices, including container isolation, image vulnerability scanning, and runtime security considerations. They know how to secure Docker deployments and mitigate potential security risks.
+
+Troubleshooting and Optimization: Proficient Docker users are skilled at troubleshooting common Docker issues, such as networking problems, resource constraints, or configuration errors. They can optimize Docker deployments for performance, scalability, and efficiency.
