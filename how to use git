@@ -21,3 +21,18 @@ go to 2nd edition and note everything you need
 // you can use following command to solve submodule fatal error
 git rm --cached directory
 git add directory
+
+// organize the idea following
+In-depth Understanding: Advanced users have a thorough understanding of Git's internals, including how Git stores data, how branches and commits work, and how merges and rebases are performed.
+
+Complex Branching Strategies: They are comfortable with complex branching strategies, such as Gitflow, and can effectively manage multiple branches, including feature branches, release branches, and hotfix branches.
+
+Advanced Merging and Rebasing: They can handle complex merge conflicts and understand when to use merge versus rebase. They are proficient in interactive rebasing to clean up commit history and maintain a clean project history.
+
+Efficient Collaboration: Advanced users are skilled at collaborating with others using Git, including resolving conflicts, reviewing code, and managing pull requests effectively.
+
+Git Internals and Customization: They are familiar with Git's configuration options and can customize Git behavior to suit their workflow. They may also be comfortable writing Git hooks or working with Git submodules and subtrees.
+
+Git Workflows Mastery: They have experience with various Git workflows and can adapt them to different project requirements. They understand the advantages and trade-offs of different workflows and can recommend the most suitable approach for a given project.
+
+Troubleshooting and Optimization: They are proficient in troubleshooting Git issues, such as performance bottlenecks or repository corruption, and can optimize Git usage for large or complex projects.
