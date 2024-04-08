@@ -18,6 +18,6 @@ https://git-scm.com/book/ko/v2/Git-%EB%8F%84%EA%B5%AC-Stashing%EA%B3%BC-Cleaning
 
 go to 2nd edition and note everything you need 
 
-you can use following command to solve submodule fatal error
+// you can use following command to solve submodule fatal error
 git rm --cached directory
 git add directory
